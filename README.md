@@ -42,7 +42,7 @@ Crash Duration Prediction Models:
 
 Built and tuned machine learning models including Linear Regression, Random Forest, XGBoost, and Decision Trees.
 
-Achieved the best performance with Decision Trees (R² = 39%).
+Achieved the best performance in terms of lowest MAE of 27.15 with Backward Elimination based Regression Model(Adjusted R² = 63%).
 
 Speed Ratio Analysis:
 
@@ -137,6 +137,8 @@ git clone <repository_url>
 Open the notebook file in Jupyter:
 
 jupyter notebook Maryland_Road_accident_data_analysis_&_model_for_predicting_Crash_Duration.ipynb
+
+Upload the 3 attached data files.
 
 Run all cells to perform the analysis and build predictive models.
 
